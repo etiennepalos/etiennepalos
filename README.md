@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @etiennepalos
-- 👀 I’m interested in THEORETICAL AND COMPUTATIONAL CHEMISTRY, CONDENSED MATTER PHYSICS.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me etiennepalos96 at gmail.com
+- 👋 Hi, I’m @etiennepalos , a PhD student at UC San Diego.
+- 👀 I’m interested in THEORETICAL AND COMPUTATIONAL CHEMISTRY and CONDENSED MATTER PHYSICS.
+- 🌱 I’m currently working on understanding and developing theoretical models for a unified molecular-level understanding of multiscale processes in chemistry.
+- 💞️ I’m looking to collaborate on projects that involve and combine: electronic structure theory, many-body molecular dynamics, hybrid quantum/clasical modeling, and machine learning.
+- 📫 How to reach me: etiennepalos96 at gmail.com
 
 <!---
 etiennepalos/etiennepalos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
